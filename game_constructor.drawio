@@ -1,9 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2024-01-01T17:21:38.244Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" version="22.1.16" etag="nvahD1ggUDa8xz8k5_KC" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-01T17:30:37.744Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="b17o95bBJyyQb8BbKNEk" version="22.1.16" type="github">
   <diagram name="Seite-1" id="99x4FHej5FIweNPe3z4g">
-    <mxGraphModel>
+    <mxGraphModel dx="2206" dy="1117" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GoFOFJ8Me7-t4dgjFMNA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GoFOFJ8Me7-t4dgjFMNA-1" target="GoFOFJ8Me7-t4dgjFMNA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GoFOFJ8Me7-t4dgjFMNA-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="651.25" y="50" width="32.5" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GoFOFJ8Me7-t4dgjFMNA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GoFOFJ8Me7-t4dgjFMNA-2" target="GoFOFJ8Me7-t4dgjFMNA-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GoFOFJ8Me7-t4dgjFMNA-2" value="&lt;div&gt;Attribute initialisieren&lt;/div&gt;&lt;div&gt;(Spieltitel, wartende Nachricht, Flagge für Endlosschleife)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="150" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GoFOFJ8Me7-t4dgjFMNA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GoFOFJ8Me7-t4dgjFMNA-4" target="GoFOFJ8Me7-t4dgjFMNA-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GoFOFJ8Me7-t4dgjFMNA-4" value="Neues Spielbrett anlegen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="250" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GoFOFJ8Me7-t4dgjFMNA-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GoFOFJ8Me7-t4dgjFMNA-5" target="GoFOFJ8Me7-t4dgjFMNA-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GoFOFJ8Me7-t4dgjFMNA-5" value="Spieler &quot;White&quot; anlegen und mit dem Spielbrett verknüpfen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="350" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GoFOFJ8Me7-t4dgjFMNA-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GoFOFJ8Me7-t4dgjFMNA-6" target="GoFOFJ8Me7-t4dgjFMNA-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GoFOFJ8Me7-t4dgjFMNA-6" value="Spieler &quot;Black&quot; anlegen und mit dem Spielbrett verknüpfen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="450" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GoFOFJ8Me7-t4dgjFMNA-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GoFOFJ8Me7-t4dgjFMNA-7" target="GoFOFJ8Me7-t4dgjFMNA-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GoFOFJ8Me7-t4dgjFMNA-7" value="Neues Arrangement anlegen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="550" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GoFOFJ8Me7-t4dgjFMNA-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GoFOFJ8Me7-t4dgjFMNA-8" target="GoFOFJ8Me7-t4dgjFMNA-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GoFOFJ8Me7-t4dgjFMNA-8" value="alle Spieler zum Arrangement hinzufügen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="650" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GoFOFJ8Me7-t4dgjFMNA-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GoFOFJ8Me7-t4dgjFMNA-9" target="GoFOFJ8Me7-t4dgjFMNA-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GoFOFJ8Me7-t4dgjFMNA-9" value="&lt;div&gt;Spielbrett initialisieren &lt;br&gt;&lt;/div&gt;&lt;div&gt;(Startaufstellung)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="750" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GoFOFJ8Me7-t4dgjFMNA-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="647.5" y="860" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GoFOFJ8Me7-t4dgjFMNA-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="652.5" y="865" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GoFOFJ8Me7-t4dgjFMNA-20" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Game Konstruktor&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GoFOFJ8Me7-t4dgjFMNA-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="490" y="20" width="340" height="900" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
