@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2024-01-07T15:45:23.334Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" version="22.1.16" etag="bSnujQ3enn2yqbuSgNHU" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-07T15:51:05.121Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="V7J11JIPIBlrN2YVSzWO" version="22.1.16" type="github">
   <diagram name="Seite-1" id="Ce3VC-6TSBgN41ZOSyzR">
-    <mxGraphModel>
+    <mxGraphModel dx="1793" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lq-vfYzR0nDn9zfqNsJU-11" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;bird&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="918" y="610" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lq-vfYzR0nDn9zfqNsJU-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=diamond;startFill=1;strokeWidth=4;startSize=38;" edge="1" parent="1" source="lq-vfYzR0nDn9zfqNsJU-12" target="lq-vfYzR0nDn9zfqNsJU-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lq-vfYzR0nDn9zfqNsJU-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;endArrow=none;endFill=0;" edge="1" parent="1" source="lq-vfYzR0nDn9zfqNsJU-12" target="lq-vfYzR0nDn9zfqNsJU-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lq-vfYzR0nDn9zfqNsJU-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1028" y="550" as="sourcePoint" />
+            <mxPoint x="1358" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lq-vfYzR0nDn9zfqNsJU-12" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;gameloop&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="878" y="360" width="300" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lq-vfYzR0nDn9zfqNsJU-13" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;buttons&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="588" y="610" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lq-vfYzR0nDn9zfqNsJU-14" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;pillars&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1248" y="610" width="220" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
