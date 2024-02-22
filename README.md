@@ -1,4 +1,3 @@
 # uml-stash
-stash for uml diagrams
-
-ich muss karkar und pippi
+stash for uml diagrams \
+made with draw.io
